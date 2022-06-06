@@ -11,6 +11,6 @@ To Do
 
 - Better URL sanitization
 - Enhance the detection of dead URL's
-- Enanhnce recursivness of the listed URL's
+- Enhance recursivness of the listed URL's
 
 
