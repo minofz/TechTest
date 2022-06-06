@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TechinicalTest": {
+      "commandName": "Project",
+      "commandLineArgs": "loadandlist http://snaponindustrial.com.br/ondeestamos"
+    }
+  }
+}
